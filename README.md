@@ -1,5 +1,5 @@
 # Programs written for CS II
-<span style="color:blue">Assignment 1:</span> 
+# <span style="color:blue">Assignment 1:</span> 
 <br>
 <span style="color:blue"># Not 'Hello World'</span>
 <br>
