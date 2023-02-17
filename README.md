@@ -1,3 +1,4 @@
+Below is a running total list of programs along with their explanations that I have written in Computer Science II. To navigate to a particular assignment, open the folder of a particular assignment and view its specific README.md file. In theory, assignments should progressively become more difficult, so the later assignments will be much harder than the first assignment completed. 
 # Assignment 1:
 ## Greeting.java , Average.java , Fib.java , Gregory.java
 ### Not Hello World - Greeting.java
