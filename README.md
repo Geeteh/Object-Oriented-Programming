@@ -54,7 +54,7 @@ Pi according to Gregory series: 3.0418396189294032
 This differs from Java’s value by 3.175237710923643 percent.
 ```
 # Assignment 2
-## Factorial.java , FibTest.java , Ramanujan.java, FunctionTest.java , Polynomial.java , Function.java , RamanujanBig.java , SinFunc.java , CosFunc.java , PolyFunc.java
+## Factorial.java , FibTest.java , Ramanujan.java, FunctionTest.java , Poly.java , Function.java , RamanujanBig.java , SinFunc.java , CosFunc.java , PolyFunc.java
 ### Factorial - Factorial.java
 Contains a method ***public static long calculate(long n)*** which recursively calculates n!, where 0! = 1 and n! = n(n − 1)!. Prints out an error 
 and exits if n < 0 or n > 20, since factorial is not defined for negative numbers and will overflow Java’s long variable with larger numbers.
@@ -128,7 +128,7 @@ Output:
 ```
 FunctionTest.findRoot(3, 4, 0.00000001) returned 3.1415926519626075.
 ```
-### Polynomial - Polynomial.java
+### Polynomial - Poly.java
 ***Extremely*** useful throughout many classes. 
 Contains a Java class Poly that represents polynomials 
 (i.e., functions of the form ax^n + bx^(n-1) + ... + cx^2 + dx + e).
