@@ -124,7 +124,7 @@ Function polynomial2 = new PolyFunc(coef2);
 System.out.println(polynomial1.findRoot(1,2, 0.000000001));
 System.out.println(polynomial2.findRoot(1,3, 0.000000001));
 ```
-Yeilds:
+Yields:
 ```
 3.1415926590561867
 1.5707963332533836
