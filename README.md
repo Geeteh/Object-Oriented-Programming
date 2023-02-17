@@ -186,3 +186,12 @@ Yields:
 1.7320508072152734
 2.0000000009313226
 ```
+### Convenient Utilities - ConvenciencyMethods.txt
+Contains some discarded convenient methods used to complete this assignment. Class not runnable, but methods inside can be implemented in other projects.
+
+***public int[] getDegreesArray(int[] c)*** method returns the array of degrees to link to their corresponding coefficients for the Poly class.
+
+***public HashMap<Integer,Integer> getDegreesMap(int[] c)*** method takes an array as an argument and returns a HashMap of coefficients linked to 
+the value of their degrees.
+
+***public int[] reverse(int[] arr, int arr_length)*** simple but powerful method to reverse an array. Extremely useful when dealing with polynomials.
