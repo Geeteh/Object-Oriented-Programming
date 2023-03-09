@@ -1,5 +1,9 @@
-Below is a running total list of programs along with their explanations that I have written in Computer Science II. To navigate to a particular assignment, open the folder of a particular assignment and view its specific README.md file. In theory, assignments should progressively become more difficult, so the later assignments will be much harder than the first assignment completed. 
-# Assignment 1:
+Below is a running total list of programs along with their explanations that I have written in Computer Science II. Individual README.md files found in assignment folders as well.
+- Assignment 1: Basic computation & slow converging series fit into a double
+- Assignment 2: Calculus application, recursions, polynomials, error bound calculations, pi manipulation and derivation, recursive root approximation
+- Assignment 3: Model-View-Controller Architecture designed GUI minesweeper, representing Sierpinski's Triangle fractal via a recursive GUI, simple graphics
+- Assignment 4: Encryption & decryption on text files using Caesar's Cipher & Vignere Cipher, simple GUI web browser piping data, robot teleoperation and simulating translating movements into differential rotor speeds via a GUI controller
+# Assignment 1
 ## Greeting.java , Average.java , Fib.java , Gregory.java
 ### Not Hello World - Greeting.java
 It can say anything, except for “Hello, world!”
