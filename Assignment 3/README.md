@@ -1,1 +1,7 @@
-![Minesweeper]([https://drive.google.com/file/d/1AdxpJo-qjHtXBRKhP8kgwl-jmE03WPwC/view?usp=sharing](https://drive.google.com/file/d/1AdxpJo-qjHtXBRKhP8kgwl-jmE03WPwC/view?usp=sharing))
+# Assignment 3
+## Minesweeper.java, 
+This assignment deals with GUI programs and Model-View-Controller architecture.
+
+
+
+![Minesweeper](https://i.imgur.com/qNGgctG.png)
