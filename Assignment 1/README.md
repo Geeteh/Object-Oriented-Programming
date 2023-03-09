@@ -1,4 +1,4 @@
-# Assignment 1:
+# Assignment 1
 ## Greeting.java , Average.java , Fib.java , Gregory.java
 ### Not Hello World - Greeting.java
 It can say anything, except for “Hello, world!”
