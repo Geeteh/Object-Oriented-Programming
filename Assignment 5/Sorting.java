@@ -1,3 +1,10 @@
+/*
+/  Bubble sort has a worst-case time complexity of O(n^2), and merge sort has a worst-case time complexity of O(nlogn).
+/  This means that bubble sort will take much longer to sort arrays compared to merge sort.
+/  As 'n' grows larger (as seen by my program), the difference between the bubble sort and merge sort algorithms becomes increasingly more pronounced.
+/  When the program is ran on my laptop, merge sort is able to sort an array of 1,000,000 ints within roughly 40 ms of the time it takes bubble sort to sort an array of 10,000 ints.
+*/
+
 import java.util.*;
 
 public class Sorting {
