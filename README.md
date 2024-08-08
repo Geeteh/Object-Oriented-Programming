@@ -1,4 +1,4 @@
-### Comp Sci II 6 Assignments. 600/600 pts earned. All programs uploaded. README incomplete.
+### Comp Sci II 6 Assignments.
 - Assignment 1: Basic computation & slow converging series fit into a double
 - Assignment 2: Calculus application, recursions, polynomials, error bound calculations, pi manipulation and derivation, recursive root approximation
 - Assignment 3: Model-View-Controller Architecture designed GUI minesweeper, representing Sierpinski's Triangle fractal via a recursive GUI, simple graphics
